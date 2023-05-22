@@ -1,0 +1,17 @@
+#bg_header {
+  background-image: url(/ip-address-tracker-master/images/pattern-bg-desktop.png);
+  height: 30%;
+}
+#map {
+  z-index: 0;
+  height: 70%;
+}
+
+#reponse {
+  background-color: white;
+  border-radius: 25px;
+  position: absolute;
+  top: 25%;
+  z-index: 1;
+  padding: 30px;
+}
